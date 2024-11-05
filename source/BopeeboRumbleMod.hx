@@ -1,7 +1,5 @@
 package;
 
-import GroovinClasses.ModWeekData;
-import GroovinShaders.PlaneRaymarcher;
 import backend.Song.SwagSong;
 import shaders.WiggleEffect.WiggleEffectType;
 import flixel.FlxCamera;
@@ -53,7 +51,7 @@ class BopeeboRumbleModInstance
 	public function new() {}
 }
 
-class BopeeboRumbleMod extends Mod
+class BopeeboRumbleMod
 {
 	public function new() {}
 
